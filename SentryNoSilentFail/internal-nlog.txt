@@ -1,0 +1,15 @@
+2018-10-23 18:52:01.7937 Info Message Template Auto Format enabled
+2018-10-23 18:52:01.7937 Info Loading assembly: NLog.Web.AspNetCore
+2018-10-23 18:52:01.8467 Info Adding target AsyncWrapper Target[debug](Debugger Target[debug_wrapped])
+2018-10-23 18:52:01.8467 Info Adding target AsyncWrapper Target[console](Console Target[console_wrapped])
+2018-10-23 18:52:01.8577 Info Configured from an XML element in C:\dev\playground\SentryNoSilentFail\SentryNoSilentFail\bin\Debug\netcoreapp2.1\NLog.config...
+2018-10-23 18:52:01.8737 Info Found 37 configuration items
+2018-10-23 18:52:13.7674 Info Logger closing down...
+2018-10-23 18:52:13.7674 Info Closing old configuration.
+2018-10-23 18:52:13.7845 Info Logger has been closed down.
+2018-10-23 18:54:17.6006 Info Message Template Auto Format enabled
+2018-10-23 18:54:17.6116 Info Loading assembly: NLog.Web.AspNetCore
+2018-10-23 18:54:17.6810 Info Adding target AsyncWrapper Target[debug](Debugger Target[debug_wrapped])
+2018-10-23 18:54:17.6810 Info Adding target AsyncWrapper Target[console](Console Target[console_wrapped])
+2018-10-23 18:54:17.6810 Info Configured from an XML element in C:\dev\playground\SentryNoSilentFail\SentryNoSilentFail\bin\Debug\netcoreapp2.1\NLog.config...
+2018-10-23 18:54:17.7179 Info Found 37 configuration items
