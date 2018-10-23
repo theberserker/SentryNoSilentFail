@@ -31,4 +31,5 @@ Unhandled Exception: System.NullReferenceException: Object reference not set to 
 # How to reproduce
 * Clone the repository
 * In SentryNoSilentFail folder `dotnet run` or run the project in VS with "first chance" CLR Exceptions enabled
+* `Ctrl + C`, or stop the application in VS
 * You should get the above exception
